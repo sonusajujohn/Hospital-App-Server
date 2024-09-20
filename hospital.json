@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Updated Kims Hospital",
+    "patientCount": 300,
+    "location": "Updated Anayara"
+  },
+  {
+    "id": 2,
+    "name": "Ananthapuri Hospital",
+    "patientCount": 200,
+    "location": "Chacka"
+  },
+  {
+    "id": 3,
+    "name": "Medical College",
+    "patientCount": 300,
+    "location": "Tvm"
+  }
+]

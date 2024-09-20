@@ -1,0 +1,16 @@
+{
+  "name": "casestudy-hospital-app-server",
+  "version": "1.0.0",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonu Saju John",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "casestudy-hospital-app-server": "file:",
+    "express": "^4.21.0",
+    "morgan": "^1.10.0"
+  }
+}
